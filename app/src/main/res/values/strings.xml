@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sharedpreference</string>
+    <string name="details" />
+    <string name="login">Login</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="details1">Details</string>
+    <string name="your_password">your password</string>
+    <string name="hello">Hello</string>
+</resources>
